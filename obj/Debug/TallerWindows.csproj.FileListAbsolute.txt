@@ -1,0 +1,10 @@
+C:\Users\KOLEMAN78\source\repos\TallerWindows\bin\Debug\TallerWindows.exe.config
+C:\Users\KOLEMAN78\source\repos\TallerWindows\bin\Debug\TallerWindows.exe
+C:\Users\KOLEMAN78\source\repos\TallerWindows\bin\Debug\TallerWindows.pdb
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.csprojAssemblyReference.cache
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.Form1.resources
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.Properties.Resources.resources
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.csproj.GenerateResource.cache
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.csproj.CoreCompileInputs.cache
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.exe
+C:\Users\KOLEMAN78\source\repos\TallerWindows\obj\Debug\TallerWindows.pdb
